@@ -5,6 +5,7 @@ App = React.createClass({
 				<Nav />
 				<div className="container">
 					<NewTodoForm />
+					<List />
 				</div>
 			</div>
 		);

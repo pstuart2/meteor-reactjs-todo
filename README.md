@@ -24,3 +24,9 @@ meteor add fortawesome:fontawesome
 
 - `lib/NewTodoForm.jsx`
 - `lib/App.jsx` - Add call to `<NewTodoForm />`
+
+## Step 4
+
+- `lib/List.jsx`
+- `lib/ListItem.jsx`
+- `/lib/App.jsx` - Added <List />
