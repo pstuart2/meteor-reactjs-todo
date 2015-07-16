@@ -30,3 +30,8 @@ meteor add fortawesome:fontawesome
 - `lib/List.jsx`
 - `lib/ListItem.jsx`
 - `/lib/App.jsx` - Added <List />
+
+## Step 5
+
+- `lib/List.jsx` - Changed sort order.
+- `lib/ListItem.jsx` - Added remove item.

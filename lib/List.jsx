@@ -3,7 +3,7 @@ List = React.createClass({
 	getMeteorData() {
 		return {
 			// Returns an array with all items in the collection
-			todos: Todos.find({}).fetch()
+			todos: Todos.find({}, {sort: {createdAt: -1}}).fetch()
 		}
 	},
 	render() {
