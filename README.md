@@ -19,3 +19,8 @@ meteor add fortawesome:fontawesome
 - `lib/Nav.jsx` - Now holds our navbar html.
 - `lib/App.jsx` - Calls <Nav /> in render()
 - `client/main.jsx` - Renders the React app on client startup
+
+## Step 3
+
+- `lib/NewTodoForm.jsx`
+- `lib/App.jsx` - Add call to `<NewTodoForm />`

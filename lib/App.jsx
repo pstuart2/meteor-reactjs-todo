@@ -3,6 +3,9 @@ App = React.createClass({
 		return (
 			<div>
 				<Nav />
+				<div className="container">
+					<NewTodoForm />
+				</div>
 			</div>
 		);
 	}
